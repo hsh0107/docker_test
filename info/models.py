@@ -1,3 +1,4 @@
 from django.db import models
+class MyModel(models.Model):
+    name = models.CharField(max_length=100, help_text='name')
 
-# Create your models here.
