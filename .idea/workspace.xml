@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c6d33ddf-39ac-48b6-9118-1f0498761d62" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +39,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="mydemo.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -70,7 +70,8 @@
       <updated>1578580529702</updated>
       <workItem from="1578580531212" duration="648000" />
       <workItem from="1578582232681" duration="140000" />
-      <workItem from="1578634964950" duration="715000" />
+      <workItem from="1578634964950" duration="1387000" />
+      <workItem from="1578636827936" duration="258000" />
     </task>
     <servers />
   </component>
